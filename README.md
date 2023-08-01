@@ -13,13 +13,6 @@ Interested in joining our research team? We offer various opportunities for unde
 
 For more information, contact the lab director at [a.gilbert@surrey.ac.uk](a.gilbert@surrey.ac.uk).
 
-## Contact
-
-Feel free to reach out with questions, ideas, or inquiries:
-
-- Email: [contact@innovativemediagrouplab.com](mailto:contact@innovativemediagrouplab.com)
-- Office: [ADDRESS_OF_THE_LAB]
-
 ---
 
 © [University of Surrey], Innovative Media Group Research Lab. All rights reserved.
