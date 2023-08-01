@@ -1,6 +1,6 @@
 # Innovative Media Lab
 
-Welcome to the Innovative Media Group Research Lab at the [University of Surrey][(](https://www.surrey.ac.uk/)). We are a team of machine learning researchers and PhD students, working in the fields of generative AI, computer vision, video understanding, and networking protocols. 
+Welcome to the Innovative Media Group Research Lab at the [University of Surrey][(https://www.surrey.ac.uk/). We are a team of machine learning researchers and PhD students, working in the fields of generative AI, computer vision, video understanding, and networking protocols. 
 
 
 ## Collaborate with Us
